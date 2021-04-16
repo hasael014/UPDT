@@ -2,9 +2,12 @@ body {
     background: #000000f2;
 }
 
-#imdow {
+#imgprue {
+    width: 95%;
+    max-width: 500px;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 7px;
     margin: auto;
-    color: white;
 }
 
 #textindi {
