@@ -2,6 +2,10 @@ body {
     background: #000000f2;
 }
 
+#saludo {
+    color: #ffffff;
+}
+
 #imgprue {
     width: 95%;
     max-width: 500px;
