@@ -1,0 +1,18 @@
+body {
+    background: #000000f2;
+}
+
+#imdow {
+    margin: auto;
+    color: white;
+}
+
+#textindi {
+    color: white;
+}
+
+#downhtml {
+    border-radius: 7px;
+    background: red;
+    border-color: #ffffff;
+}
