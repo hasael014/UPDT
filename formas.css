@@ -29,6 +29,14 @@ body {
     border-color: #ffffff;
 }
 
+#downhtml:hover {
+    font-size: 20px;
+    border-color: rgb(255, 0, 47);
+    background-color: rgba(255, 1, 1, 0);
+    color: azure;
+    font-family: serif;
+}
+
 .nav-item:hover {
     background-color: rgba(0, 0, 0, 0.322);
     border-radius: 50px;
