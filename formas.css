@@ -38,6 +38,6 @@ body {
 }
 
 .nav-item:hover {
-    background-color: rgba(0, 0, 0, 0.322);
+    background-color: rgba(0, 0, 0, 0.116);
     border-radius: 50px;
 }
