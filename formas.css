@@ -30,14 +30,30 @@ body {
 }
 
 #downhtml:hover {
-    font-size: 20px;
-    border-color: rgb(255, 0, 47);
-    background-color: rgba(255, 1, 1, 0);
-    color: azure;
+    transform: scale(1.08);
     font-family: serif;
+    background: red;
+    border-color: #ffffff;
 }
 
 .nav-item:hover {
     background-color: rgba(0, 0, 0, 0.116);
     border-radius: 50px;
+}
+
+
+/*Pagina de descargas ejemplo_summa*/
+
+#ejemplo_summa {
+    margin-top: 50px;
+    color: white;
+}
+
+.divisoria {
+    background-color: #ffffff;
+    color: #ffffff;
+    border-radius: 50px;
+    font-size: 2px;
+    margin-top: 50px;
+    width: 900px;
 }
